@@ -268,10 +268,11 @@ margin-top:10px;
 #review
 {
 background-image:linear-gradient(to right, #a517ba,#5f1782);
-width:100%;
+width:800px;
 height:420px;
 border-radius:30px;
 border:10px solid white;
+margin-left:400px;
 }
 
 .carousel-item
